@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 8
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Gage Kizzar, Jessica Trawick, Monice Hiemer**
 
 ## Specification
 
@@ -17,7 +17,7 @@
              1, & 0 < t < T/2 \\
              0, & t = 0 \\
              -1, & -T/2 < t < 0
-           \end{cases}$$
+           \endGage{cases}$$
   It can be shown that the following sum converges to $f(t)$ as $n\to\infty$:
   $$S_n(t) = \frac{4}{\pi}\sum_{k=1}^n \frac{1}{2k-1} \sin\left(\frac{2(2k-1)\pi t}{T}\right)$$
   We wish to show numerical evidence for this convergence.
@@ -37,7 +37,6 @@ Pro-tip: using git to manage conflicts on Jupyter notebooks is a pain. I recomme
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
 
-**CHANGEME**
 
 ## Honor Pledge
 
@@ -48,7 +47,7 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Gage Kizzar, Jessica Trawick, Monice Hiemer**
 
 
 
