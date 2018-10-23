@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 8
 
-**Author(s):** **Gage Kizzar, Jessica Trawick, Monice Heimer**
+**Author(s):** **Gage Kizzar, Jessica Trawick, Monice Hiemer**
 
 ## Specification
 
@@ -47,7 +47,7 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**Gage Kizzar, Jessica Trawick, Monice Heimer**
+**Gage Kizzar, Jessica Trawick, Monice Hiemer**
 
 
 
