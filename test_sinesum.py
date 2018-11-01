@@ -8,6 +8,12 @@ import sinesum
 Verify implementation of the Fourier sine series using numpy arrays.
 """
 
-def test_dummy():
-    """Dummy test that always fails. Please replace with actual tests."""
-    assert False, "This is a dummy test"
+def test_s():
+    """this def tests the function s in the module sinesum, if it returns the right value"""
+    assert 0.99 < sinesum.s((0.5*np.pi),100000,(2*np.pi)) <=1
+    
+    
+def test_f():
+    """ this def tests the function f in the module sinesum, it will return the right value"""
+    np.testing.assert_almost_equal(sinesum.f(0.5*np.pi,2*np.pi),1)
+    
