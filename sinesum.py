@@ -60,4 +60,4 @@ def plot(t, n, T=(2 * np.pi)):
 
     plt.xlim(0, n)
 
-    return plt.plot(S)
+    return plt.plot(S, marker = ".")
